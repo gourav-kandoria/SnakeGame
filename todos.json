@@ -1,0 +1,15 @@
+{
+
+"check how to write select level to play according to the size of screen": false,
+
+"Override the default behavior of back button for a route": false,
+
+"Add option of playing using button and gestures": false,
+
+"find or implement better gesture detector library": false,
+
+"lock the screen to only portrait mode": true,
+
+"Decide and add how Routing will be done": true
+
+}
